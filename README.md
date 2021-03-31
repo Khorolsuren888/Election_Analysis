@@ -1,20 +1,22 @@
-### Election_Analysis
+# Election_Analysis
 
-##Project Overview
+**Project Overview
 
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
 
-1.Calculate the total number of votes cast.
-2.Get a complete list of candidates who received votes.
-3.Calculate the total number of votes each candidate received.
-4.Calculate the percentage of votes each candidate won.
-5.Determine the winner of the election based on popular vote.
+    1.Calculate the total number of votes cast.
+    2.Get a complete list of candidates who received votes.
+    3.Calculate the total number of votes each candidate received.
+    4.Calculate the percentage of votes each candidate won.
+    5.Determine the winner of the election based on popular vote.
 
-##Resources
+**Resources
+
 Data Source: election_results.csv
 Software: Python 3.8.0, Visual Studio Code 1.40.2
 
-##Summary
+**Summary
+
 The analysis of the election shows:
 
 Total Votes: 369,711
@@ -27,10 +29,12 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 
-Challenge Overview
-The challenge required outputting the vote total and vote percentage for all counties involved in the election.
+**Challenge Overview
 
-Challenge Summary
+The challenge required to determine the number of votes each candidate received and based on the result then we can determine the winner.
+
+**Challenge Summary
+
 County Votes:
 Jefferson: 10.5% (38,855)
 Denver: 82.8% (306,055)
